@@ -8,6 +8,7 @@ The goal of this project is to showcase core data engineering concepts such as d
 
 ## 🏗️ Architecture
 
+![Data Architecture](docs/databricks_architecture.png)
 The project is built using the Medallion Architecture, which consists of three layers:
 
 Bronze Layer (Raw Data)
@@ -74,11 +75,8 @@ Silver transformation
 Gold modeling
 Validate tables using SQL queries
 
-## 📈 Future Improvements
-Add data quality checks (e.g., Great Expectations)
-Automate pipelines using workflows
-Integrate visualization tools (Power BI / Tableau)
-Expand dataset and include more fact tables
+## 📈 Visualizatons inside Databricks Platform
+![Dashboard](docs/Dashboard.JPG)
 
 ## 🌟 About Me
 
