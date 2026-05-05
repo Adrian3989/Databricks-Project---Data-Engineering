@@ -1,6 +1,6 @@
 # 📊 Data Engineering Project – Data Warehouse in Databricks
 
-##📌 Overview
+## 📌 Overview
 
 This project demonstrates the design and implementation of a small Data Warehouse (DW) using Databricks, Apache Spark, and SQL.
 The solution follows the Medallion Architecture (Bronze, Silver, Gold layers) and implements an ETL process to transform raw CSV data into structured analytical datasets.
